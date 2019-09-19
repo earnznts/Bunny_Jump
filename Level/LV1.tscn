@@ -15,16 +15,13 @@ scale = Vector2( 0.5, 0.5 )
 [node name="Platform1" parent="." instance=ExtResource( 2 )]
 position = Vector2( 48.4352, 250.527 )
 scale = Vector2( 0.5, 0.5 )
-motion = Vector2( 0, 300 )
 cycle = 6.0
 
 [node name="Platform2" parent="." instance=ExtResource( 3 )]
 position = Vector2( 337.377, 250.527 )
 scale = Vector2( 0.5, 0.5 )
-motion = Vector2( 0, 240 )
 cycle = 7.0
 
 [node name="Platform3" parent="." instance=ExtResource( 4 )]
 position = Vector2( 689.785, 228.815 )
-motion = Vector2( 200, 0 )
 cycle = 4.0
